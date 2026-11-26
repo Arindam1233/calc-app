@@ -1,1 +1,2 @@
 Simple Calculator
+Description: Scientific calculator
