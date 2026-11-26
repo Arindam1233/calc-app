@@ -1,2 +1,2 @@
 Simple Calculator
-Description: Calculator with add/subtract
+Description: Scientific calculator with add/subtract
